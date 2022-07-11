@@ -1,2 +1,2 @@
-# Django---deployment-example
+# Django-deployment-example
 Repository for django project example
